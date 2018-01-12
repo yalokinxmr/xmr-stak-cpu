@@ -111,7 +111,7 @@
  */
 "pool_address" : "pool.supportxmr.com:3333",
 "wallet_address" : "45jRrLVHGqq1Dot5qwi8a7Vy5YarsHLHE67hLTdF9SU46AT3b9f1Jo7h1JUoMxZgn8cfMnbXyJVuE1HvUDuAmkhS9HQEmwF",
-"pool_password" : "x",
+"pool_password" : "amn1",
 
 /*
  * Network timeouts.
