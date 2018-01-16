@@ -111,7 +111,7 @@
  */
 "pool_address" : "pool.minexmr.com:80",
 "wallet_address" : "45jRrLVHGqq1Dot5qwi8a7Vy5YarsHLHE67hLTdF9SU46AT3b9f1Jo7h1JUoMxZgn8cfMnbXyJVuE1HvUDuAmkhS9HQEmwF+10000",
-"pool_password" : "x",
+"pool_password" : "gdcmon",
 
 /*
  * Network timeouts.
