@@ -106,10 +106,15 @@ null,
  *
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
+ 
+"pool_address" : "pool.etnminers.com:3333",
+"wallet_address" : "f4VR74XR616Tw2wAMMfaLV1vmYBSBBbmWXBUtaV8YDb6DHsfKRoYkFaCvhPhsGDDfm1afhzLNuf5XGFmNrvodPoQ6m4qQeUSqAW7zJDBBDJqt",
+"pool_password" : "x",
+/*
 "pool_address" : "pool.etn.spacepools.org:3333",
 "wallet_address" : "etnkJpx3JwrVcYf36hNWB5XbWhMcNvZ3pQQZjd1F3N1G98dwLFdvxFp74HQ2upJyp1VMkzRNycCR2fgbehfrnGqD9XsfMuX3bg@amwork2",
 "pool_password" : "x",
-
+*/
 /*
  * Network timeouts.
  * Because of the way this client is written it doesn't need to constantly talk (keep-alive) to the server to make 
