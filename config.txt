@@ -107,13 +107,17 @@ null,
  * We feature pools up to 1MH/s. For a more complete list see M5M400's pool list at www.moneropools.com
  */
  
- "pool_address" : "pool.etn.spacepools.org:3333",
-"wallet_address" : "etnjxaYRMQFCGArHjMbx7tFM4whQqudefVaw4Ss77QEG541B7pW9CXQPHun9C65HYMfad33r3kJgoYzJuUHSdqtv8zQh8tdAC4@amwork2",
+"pool_address" : "graftpool.net:5555",
+"wallet_address" : "G6EN2vMPD7uVVnTKyJAMZXUts3NSZpMwocn9XrhmEhjKiFuCBFNwGp69hKLXX34qNBMpVMF5mnsaN9tBbAZ3qdYmMsc3J7v",
 "pool_password" : "x",
  
  /*
  "pool_address" : "support.ipbc.io:3333",
 "wallet_address" : "bxcQR6vRpxnBjFckjEEysHfUwBfBuik3gZQpksMCSVdp6jr3GNB7BZQK6P3nWRkAGSYUE9ZUiDZSq4zYRsZCLNxu2CFYS5eQX",
+"pool_password" : "x",
+
+"pool_address" : "pool.etn.spacepools.org:3333",
+"wallet_address" : "etnjxaYRMQFCGArHjMbx7tFM4whQqudefVaw4Ss77QEG541B7pW9CXQPHun9C65HYMfad33r3kJgoYzJuUHSdqtv8zQh8tdAC4@amwork2",
 "pool_password" : "x",
  
 "pool_address" : "graftpool.net:5555",
