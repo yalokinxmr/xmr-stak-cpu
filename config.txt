@@ -119,7 +119,7 @@ null,
 "pool_password" : "x",
 */
 /*
-"pool_address" : "support.ipbc.io:3333",
+"pool_address" : "support.ipbc.io:5555",
 "wallet_address" : "bxbsF9VpSb9ahyggVSiwGr6jWDQZKDkxt7CQGX2o15kLiHWJSyHcPY96GYjEYFT7CWBnuPACiPfYPapcjUMgjNCf1oqJstWP4",
 "pool_password" : "x",
   
